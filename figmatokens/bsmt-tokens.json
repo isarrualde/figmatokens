@@ -30,7 +30,11 @@
         "type": "spacing"
       },
       "xxxl": {
-        "value": "{spacing.xxl} + 8",
+        "value": "{spacing.xxl} + 4",
+        "type": "spacing"
+      },
+      "max": {
+        "value": "{spacing.xxxl} + 4",
         "type": "spacing"
       }
     },
