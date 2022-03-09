@@ -347,6 +347,10 @@
         "value": "Regular",
         "type": "fontWeights"
       },
+      "bodySemibold": {
+        "value": "Semibold",
+        "type": "fontWeights"
+      },
       "bodyBold": {
         "value": "Bold",
         "type": "fontWeights"
